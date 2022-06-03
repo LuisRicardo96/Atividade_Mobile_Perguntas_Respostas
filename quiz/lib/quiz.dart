@@ -100,7 +100,7 @@ final List quiz = [
       "DPC",
       "SWD",
     ],
-    "alternativa_correta": 2,
+    "alternativa_correta": 1,
   }
 ];
 
